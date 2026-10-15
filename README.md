@@ -215,4 +215,4 @@ If BlueSky Analytics were a real company outgrowing this setup, I would recommen
 
 ## Author
 
-**Geoffrey Mackey**, Cybersecurity and Information Technology student at the University of Cincinnati.
+**Geoffrey Mackey**, Cybersecurity Professional & Student at the University of Cincinnati.
